@@ -1,6 +1,6 @@
 vendor\
-node_modules
-output
+./node_modules
+./output
 .idea
 .idea\*
 *.jpg

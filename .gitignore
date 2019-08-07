@@ -1,7 +1,7 @@
 vendor\
-./node_modules
-./output
-.idea
+/node_modules
+/output
+/.idea
 .idea\*
 *.jpg
 vendor/*
